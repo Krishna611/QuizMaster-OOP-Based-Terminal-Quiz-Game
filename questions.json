@@ -1,0 +1,137 @@
+{
+  "Science": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO2"],
+      "answer": 1
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": 2
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 2
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "options": ["3x10^8 m/s", "1.5x10^8 m/s", "3000 km/s", "30,000 km/s"],
+      "answer": 1
+    },
+    {
+      "question": "Which part of the cell contains genetic material?",
+      "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Ribosome"],
+      "answer": 1
+    }
+  ],
+  "History": [
+    {
+      "question": "Who was the first President of the USA?",
+      "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+      "answer": 1
+    },
+    {
+      "question": "The Great Wall is primarily located in which country?",
+      "options": ["India", "China", "Japan", "Mongolia"],
+      "answer": 2
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1942", "1945", "1947", "1950"],
+      "answer": 2
+    },
+    {
+      "question": "Who discovered America in 1492?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Marco Polo"],
+      "answer": 1
+    },
+    {
+      "question": "Which empire built the city of Machu Picchu?",
+      "options": ["Inca", "Maya", "Aztec", "Roman"],
+      "answer": 1
+    }
+  ],
+  "Sports": [
+    {
+      "question": "How many players are there in a football (soccer) team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "answer": 3
+    },
+    {
+      "question": "Which sport is associated with Wimbledon?",
+      "options": ["Cricket", "Tennis", "Badminton", "Hockey"],
+      "answer": 2
+    },
+    {
+      "question": "In cricket, how many runs are scored for a ball that reaches the boundary along the ground?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "Brazil", "UK", "Japan"],
+      "answer": 2
+    },
+    {
+      "question": "In basketball, how many points is a free throw worth?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1
+    }
+  ],
+  "Geography": [
+    {
+      "question": "Which is the largest continent on Earth?",
+      "options": ["Africa", "Asia", "Europe", "North America"],
+      "answer": 2
+    },
+    {
+      "question": "Mount Everest is located in which mountain range?",
+      "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+      "answer": 3
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": 2
+    },
+    {
+      "question": "Which country has the most population?",
+      "options": ["India", "USA", "China", "Russia"],
+      "answer": 3
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "answer": 3
+    }
+  ],
+  "Technology": [
+    {
+      "question": "Who is known as the father of computers?",
+      "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+      "answer": 2
+    },
+    {
+      "question": "Which company developed the Windows operating system?",
+      "options": ["Apple", "IBM", "Microsoft", "Google"],
+      "answer": 3
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "Hyperlink Test Protocol", "Hyperlink Transfer Program"],
+      "answer": 1
+    },
+    {
+      "question": "Which programming language is known as the backbone of web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "answer": 2
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Primary Unit", "Control Processing Unit", "Central Power Unit"],
+      "answer": 1
+    }
+  ]
+}
